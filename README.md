@@ -1,6 +1,8 @@
 # broker-er
 
-Team project with mhhsu2 and arjung128 for CS411 (Database system)
+Team project with mhhsu2 and arjung128 for CS411 (Database system).
+
+
 Made anonymous commits to original repo, thus simply cloning project into my repo. 
 
 ### Initial Demo (Nov. 5th) 
