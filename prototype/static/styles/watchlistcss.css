@@ -1,0 +1,65 @@
+.watchlistcss h1 {
+  margin-left:10px;
+  color: #5b6574;
+  font-size: 40px;
+  padding: 20px 0 20px 0;
+}
+
+table.center {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin: 0 auto;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 4px;
+}
+
+tr {
+  background-color: #;
+}
+tr.owned{
+  background-color: #FF9999;
+}
+
+h2{
+  text-align: center;
+}
+
+tr.display:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
+.float-child {
+    float: left;
+}
+
+.col-centered{
+    margin: 0 auto;
+    float: none;
+    width:50%;
+}
+
+
+
+.row {
+  margin-left:10px;
+  margin-right:5px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}

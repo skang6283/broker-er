@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block content%}
+<div class="jumbotron">
+  <h1 class="display-4">Welcome to Broker-ez</h1>
+  <p class="lead">This is a simple website to help beginners in trading to keep track of their interested stocks!  </p>
+</div>
+
+  <form method="POST" action="">
+    <h1>Lastest Stocks</h1>
+  </form>
+
+  <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-1 mb-1">
+
+
+
+</div>
+
+<table id="data" class="table text-center table-sm table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Comapny Ticker</th>
+            <th>Sector</th>
+            <th>Country</th>
+            <th>Date</th>
+            <th>Open Price</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        {% for row in stockInfo %}
+        {% if row['prediction']  %}
+          <tr style="background-color:rgb({{row['prediction']}}, 0, 0)"">
+
+          {% else %}
+          <tr class ="background-color:rgb(0, {{row['prediction']}} , 0)"">
+
+          {% endif %}
+
+
+            <td><a href="{{ url_for('stock', ticker=row['Ticker']) }}">{{ row['Ticker'] }}</a></td>
+            <td>{{ row['sector'] }}{{row['prediction']}}</td>
+            <td>{{ row['country'] }}</td>
+            <td>{{ row['Date'] }}</td>
+            <td>{{ row['Open']}}</td>
+
+        </tr>
+
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}

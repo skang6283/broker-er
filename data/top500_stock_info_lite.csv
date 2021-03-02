@@ -1,0 +1,477 @@
+Ticker,sector,country
+FITB,Financial Services,United States
+DISCB,Communication Services,United States
+MLM,Basic Materials,United States
+EFX,Industrials,United States
+CBRE,Real Estate,United States
+TLK,Communication Services,Indonesia
+COO,Healthcare,United States
+TCOM,Consumer Cyclical,China
+CAG,Consumer Defensive,United States
+IP,Consumer Cyclical,United States
+EPAM,Technology,United States
+CCC,Technology,United Kingdom
+BIO,Healthcare,United States
+TEF,Communication Services,Spain
+CQP,Energy,United States
+CDW,Technology,United States
+EQR,Real Estate,United States
+VIAC,Communication Services,United States
+OXY,Energy,United States
+TTWO,Communication Services,United States
+HOLX,Healthcare,United States
+FTNT,Technology,United States
+MPLX,Energy,United States
+ZS,Technology,United States
+IQ,Communication Services,China
+CMS,Utilities,United States
+RYAAY,Industrials,Ireland
+CAJ,Technology,Japan
+FTS,Utilities,Canada
+VIACA,Communication Services,United States
+COUP,Technology,United States
+FLT,Technology,United States
+MXIM,Technology,United States
+EXAS,Healthcare,United States
+GWW,Industrials,United States
+GDRX,Healthcare,United States
+CNQ,Energy,Canada
+CHU,Communication Services,Hong Kong
+NOK,Technology,Finland
+INCY,Healthcare,United States
+ROL,Consumer Cyclical,United States
+PCG,Utilities,United States
+DB,Financial Services,Germany
+KKR,Financial Services,United States
+AEM,Basic Materials,Canada
+VMC,Basic Materials,United States
+MPC,Energy,United States
+SPG,Real Estate,United States
+FMX,Consumer Defensive,Mexico
+BBVA,Financial Services,Spain
+AMP,Financial Services,United States
+NWG,Financial Services,United Kingdom
+LH,Healthcare,United States
+DAL,Industrials,United States
+AVB,Real Estate,United States
+ABC,Healthcare,United States
+KEYS,Technology,United States
+IBKR,Financial Services,United States
+AJG,Financial Services,United States
+NDAQ,Financial Services,United States
+GRMN,Technology,Switzerland
+DFS,Financial Services,United States
+EOG,Energy,United States
+O,Real Estate,United States
+AEE,Utilities,United States
+WST,Healthcare,United States
+Z,Communication Services,United States
+YNDX,Communication Services,Netherlands
+ETR,Utilities,United States
+ZG,Communication Services,United States
+BNTX,Healthcare,Germany
+WY,Real Estate,United States
+PSX,Energy,United States
+ARE,Real Estate,United States
+MKTX,Financial Services,United States
+RCI,Communication Services,Canada
+WPM,Basic Materials,Canada
+FTV,Technology,United States
+STT,Financial Services,United States
+SLB,Energy,United States
+TSN,Consumer Defensive,United States
+PANW,Technology,United States
+PPL,Utilities,United States
+EIX,Utilities,United States
+PAYC,Technology,United States
+CERN,Healthcare,United States
+DLTR,Consumer Defensive,United States
+FRC,Financial Services,United States
+VRSN,Technology,United States
+CHD,Consumer Defensive,United States
+LEN,Consumer Cyclical,United States
+TU,Communication Services,Canada
+GMAB,Healthcare,Denmark
+XP,Financial Services,Brazil
+RPRX,Healthcare,United States
+YUMC,Consumer Cyclical,China
+ODFL,Industrials,United States
+WELL,Real Estate,United States
+AME,Industrials,United States
+LYB,Basic Materials,United States
+CS,Financial Services,Switzerland
+RNG,Technology,United States
+NTR,Basic Materials,Canada
+FMS,Healthcare,Germany
+WMB,Energy,United States
+SLF,Financial Services,Canada
+LUV,Industrials,United States
+WLTW,Financial Services,United Kingdom
+SWKS,Technology,United States
+W,Consumer Cyclical,United States
+DTE,Utilities,United States
+AFL,Financial Services,United States
+MCK,Healthcare,United States
+MTD,Healthcare,United States
+BCS,Financial Services,United Kingdom
+MKC,Consumer Defensive,United States
+DHI,Consumer Cyclical,United States
+SIRI,Communication Services,United States
+HLT,Consumer Cyclical,United States
+GLW,Technology,United States
+HPQ,Technology,United States
+CTVA,Basic Materials,United States
+E,Energy,Italy
+ZTO,Industrials,China
+FAST,Industrials,United States
+LYG,Financial Services,United Kingdom
+MRVL,Technology,Bermuda
+FCX,Basic Materials,United States
+ROKU,Communication Services,United States
+ALXN,Healthcare,United States
+LBRDA,Communication Services,United States
+PRU,Financial Services,United States
+CHA,Communication Services,Hong Kong
+CHWY,Consumer Cyclical,United States
+LBRDK,Communication Services,United States
+ADM,Consumer Defensive,United States
+EDU,Consumer Defensive,China
+TDG,Industrials,United States
+FNV,Basic Materials,Canada
+CPRT,Industrials,United States
+APTV,Consumer Cyclical,Ireland
+WCN,Industrials,United States
+ANSS,Technology,United States
+CLX,Consumer Defensive,United States
+AZO,Consumer Cyclical,United States
+VFC,Consumer Cyclical,United States
+ED,Utilities,United States
+HRL,Consumer Defensive,United States
+MFC,Financial Services,Canada
+TTD,Technology,United States
+MCHP,Technology,United States
+OTIS,Industrials,United States
+ING,Financial Services,Netherlands
+MRNA,Healthcare,United States
+SWK,Industrials,United States
+PH,Industrials,United States
+MSI,Technology,United States
+BGNE,Healthcare,China
+OKTA,Technology,United States
+KMI,Energy,United States
+AIG,Financial Services,United States
+CRWD,Technology,United States
+AWK,Utilities,United States
+ZBH,Healthcare,United States
+ROK,Industrials,United States
+DDOG,Technology,United States
+WIT,Technology,India
+STM,Technology,Switzerland
+CRH,Basic Materials,Ireland
+ALL,Financial Services,United States
+ALC,Healthcare,Switzerland
+RMD,Healthcare,United States
+RSG,Industrials,United States
+SYY,Consumer Defensive,United States
+HSY,Consumer Defensive,United States
+TROW,Financial Services,United States
+BBY,Consumer Cyclical,United States
+VRSK,Industrials,United States
+CARR,Industrials,United States
+SGEN,Healthcare,United States
+BLL,Consumer Cyclical,United States
+XLNX,Technology,United States
+MSCI,Financial Services,United States
+CHT,Communication Services,Taiwan
+PEG,Utilities,United States
+WBA,Healthcare,United States
+IQV,Healthcare,United States
+PCAR,Industrials,United States
+PAYX,Industrials,United States
+ORAN,Communication Services,France
+ES,Utilities,United States
+MAR,Consumer Cyclical,United States
+ROST,Consumer Cyclical,United States
+BK,Financial Services,United States
+CDNS,Technology,United States
+COP,Energy,United States
+KLAC,Technology,United States
+DXCM,Healthcare,United States
+PPG,Basic Materials,United States
+F,Consumer Cyclical,United States
+BBD,Financial Services,Brazil
+JCI,Industrials,Ireland
+MFG,Financial Services,Japan
+A,Healthcare,United States
+CVNA,Consumer Cyclical,United States
+WEC,Utilities,United States
+SPLK,Technology,United States
+TT,Industrials,Ireland
+PUK,Financial Services,United Kingdom
+TEL,Technology,Switzerland
+STZ,Consumer Defensive,United States
+PTON,Consumer Cyclical,United States
+INFO,Industrials,United Kingdom
+INFO,Industrials,United Kingdom
+ORLY,Consumer Cyclical,United States
+CSGP,Real Estate,United States
+SNPS,Technology,United States
+SBAC,Real Estate,United States
+CMI,Industrials,United States
+TWTR,Communication Services,United States
+CTAS,Industrials,United States
+CM,Financial Services,Canada
+EBAY,Consumer Cyclical,United States
+SAN,Financial Services,Spain
+COF,Financial Services,United States
+ALGN,Healthcare,United States
+CMG,Consumer Cyclical,United States
+ABEV,Consumer Defensive,Brazil
+DOW,Basic Materials,United States
+APH,Technology,United States
+CNC,Healthcare,United States
+MET,Financial Services,United States
+EA,Communication Services,United States
+LHX,Industrials,United States
+BX,Financial Services,United States
+PINS,Communication Services,United States
+IDXX,Healthcare,United States
+GIS,Consumer Defensive,United States
+EPD,Energy,United States
+VOD,Communication Services,United Kingdom
+SRE,Utilities,United States
+BCE,Communication Services,Canada
+IBN,Financial Services,India
+RKT,Financial Services,United States
+XEL,Utilities,United States
+TRP,Energy,Canada
+ERIC,Technology,Sweden
+NIO,Consumer Cyclical,China
+KHC,Consumer Defensive,United States
+DOCU,Technology,United States
+NXPI,Technology,Netherlands
+KDP,Consumer Defensive,United States
+SMFG,Financial Services,Japan
+RELX,Communication Services,United Kingdom
+BMO,Financial Services,Canada
+TRI,Industrials,Canada
+EMR,Industrials,United States
+CTSH,Technology,United States
+BIIB,Healthcare,United States
+AMOV,Communication Services,Mexico
+AMOV,Communication Services,Mexico
+EXC,Utilities,United States
+ROP,Industrials,United States
+BAX,Healthcare,United States
+AMX,Communication Services,Mexico
+TAL,Consumer Defensive,China
+ITUB,Financial Services,Brazil
+PSA,Real Estate,United States
+DLR,Real Estate,United States
+CP,Industrials,Canada
+MNST,Consumer Defensive,United States
+SCCO,Basic Materials,United States
+VEEV,Healthcare,United States
+HMC,Consumer Cyclical,Japan
+CEO,Energy,Hong Kong
+BSBR,Financial Services,Brazil
+TWLO,Communication Services,United States
+ETN,Industrials,Ireland
+LULU,Consumer Cyclical,Canada
+EQNR,Energy,Norway
+DD,Basic Materials,United States
+NGG,Utilities,United Kingdom
+HCA,Healthcare,United States
+UBS,Financial Services,Switzerland
+PHG,Healthcare,Netherlands
+AON,Financial Services,United Kingdom
+ILMN,Healthcare,United States
+PBR,Energy,Brazil
+ADI,Technology,United States
+AEP,Utilities,United States
+EW,Healthcare,United States
+SPOT,Communication Services,Luxembourg
+DELL,Technology,United States
+KMB,Consumer Defensive,United States
+BIDU,Communication Services,China
+WM,Industrials,United States
+WBK,Financial Services,Australia
+BAM,Financial Services,Canada
+GPN,Industrials,United States
+PNC,Financial Services,United States
+GOLD,Basic Materials,Canada
+GOLD,Basic Materials,Canada
+SNP,Energy,China
+TEAM,Technology,Australia
+TAK,Healthcare,Japan
+NOC,Industrials,United States
+BSX,Healthcare,United States
+LRCX,Technology,United States
+MCO,Financial Services,United States
+WDAY,Technology,United States
+BNS,Financial Services,Canada
+NEM,Basic Materials,United States
+MUFG,Financial Services,Japan
+ABB,Industrials,Switzerland
+ADSK,Technology,United States
+DG,Consumer Defensive,United States
+PTR,Energy,China
+BP,Energy,United Kingdom
+ECL,Basic Materials,United States
+MMC,Financial Services,United States
+HUM,Healthcare,United States
+ICE,Financial Services,United States
+NSC,Industrials,United States
+PGR,Financial Services,United States
+CME,Financial Services,United States
+VMW,Technology,United States
+AMAT,Technology,United States
+VALE,Basic Materials,Brazil
+VRTX,Healthcare,United States
+ENB,Energy,Canada
+MU,Technology,United States
+TFC,Financial Services,United States
+REGN,Healthcare,United States
+ATVI,Communication Services,United States
+UBER,Technology,United States
+CB,Financial Services,Switzerland
+USB,Financial Services,United States
+NTES,Communication Services,China
+MELI,Consumer Cyclical,Argentina
+CSX,Industrials,United States
+INFY,Technology,India
+TJX,Consumer Cyclical,United States
+APD,Basic Materials,United States
+CI,Healthcare,United States
+LFC,Financial Services,China
+ITW,Industrials,United States
+SHW,Basic Materials,United States
+FISV,Technology,United States
+EQIX,Real Estate,United States
+GE,Industrials,United States
+GS,Financial Services,United States
+BKNG,Consumer Cyclical,United States
+BDX,Healthcare,United States
+MO,Consumer Defensive,United States
+CCI,Real Estate,United States
+D,Utilities,United States
+CL,Consumer Defensive,United States
+DUK,Utilities,United States
+ADP,Industrials,United States
+FDX,Industrials,United States
+ANTM,Healthcare,United States
+CNI,Industrials,Canada
+RIO,Basic Materials,United Kingdom
+DE,Industrials,United States
+BTI,Consumer Defensive,United Kingdom
+PLD,Real Estate,United States
+CVS,Healthcare,United States
+AXP,Financial Services,United States
+ZTS,Healthcare,United States
+MDLZ,Consumer Defensive,United States
+SYK,Healthcare,United States
+DEO,Consumer Defensive,United Kingdom
+TGT,Consumer Defensive,United States
+SE,Communication Services,Singapore
+SCHW,Financial Services,United States
+FIS,Technology,United States
+SPGI,Financial Services,United States
+ISRG,Healthcare,United States
+EL,Consumer Defensive,United States
+TOT,Energy,France
+TD,Financial Services,Canada
+BA,Industrials,United States
+INTU,Technology,United States
+RTX,Industrials,United States
+GSK,Healthcare,United Kingdom
+CAT,Industrials,United States
+HSBC,Financial Services,United Kingdom
+C,Financial Services,United States
+WFC,Financial Services,United States
+AMD,Technology,United States
+BLK,Financial Services,United States
+MMM,Industrials,United States
+NOW,Technology,United States
+LMT,Industrials,United States
+BBL,Basic Materials,Australia
+IBM,Technology,United States
+RY,Financial Services,Canada
+SBUX,Consumer Cyclical,United States
+AMT,Real Estate,United States
+BUD,Consumer Defensive,Belgium
+SNE,Technology,Japan
+HDB,Financial Services,India
+PDD,Consumer Cyclical,China
+PM,Consumer Defensive,United States
+SHOP,Technology,Canada
+SNY,Healthcare,France
+HON,Industrials,United States
+LIN,Basic Materials,United Kingdom
+UNP,Industrials,United States
+LOW,Consumer Cyclical,United States
+BHP,Basic Materials,Australia
+CHTR,Communication Services,United States
+LLY,Healthcare,United States
+CHL,Communication Services,Hong Kong
+JD,Consumer Cyclical,China
+AMGN,Healthcare,United States
+SAP,Technology,Germany
+ZM,Communication Services,United States
+AZN,Healthcare,United Kingdom
+BMY,Healthcare,United States
+TXN,Technology,United States
+CVX,Energy,United States
+MDT,Healthcare,Ireland
+UPS,Industrials,United States
+ACN,Technology,Ireland
+TMUS,Communication Services,United States
+XOM,Energy,United States
+QCOM,Technology,United States
+AVGO,Technology,United States
+NEE,Utilities,United States
+UN,Consumer Defensive,Netherlands
+NVO,Healthcare,Denmark
+UL,Consumer Defensive,Netherlands
+ABBV,Healthcare,United States
+ASML,Technology,Netherlands
+CSCO,Technology,United States
+COST,Consumer Defensive,United States
+MCD,Consumer Cyclical,United States
+DHR,Healthcare,United States
+ORCL,Technology,United States
+NVS,Healthcare,Switzerland
+INTC,Technology,United States
+TM,Consumer Cyclical,Japan
+PEP,Consumer Defensive,United States
+ABT,Healthcare,United States
+TMO,Healthcare,United States
+NKE,Consumer Cyclical,United States
+MRK,Healthcare,United States
+T,Communication Services,United States
+CMCSA,Communication Services,United States
+PFE,Healthcare,United States
+BAC,Financial Services,United States
+KO,Consumer Defensive,United States
+CRM,Technology,United States
+ADBE,Technology,United States
+PYPL,Financial Services,United States
+DIS,Communication Services,United States
+VZ,Communication Services,United States
+HD,Consumer Cyclical,United States
+MA,Financial Services,United States
+UNH,Healthcare,United States
+JPM,Financial Services,United States
+NVDA,Technology,United States
+PG,Consumer Defensive,United States
+JNJ,Healthcare,United States
+TSLA,Consumer Cyclical,United States
+V,Financial Services,United States
+WMT,Consumer Defensive,United States
+TSM,Technology,Taiwan
+FB,Communication Services,United States
+BABA,Consumer Cyclical,China
+GOOGL,Communication Services,United States
+GOOG,Communication Services,United States
+AMZN,Consumer Cyclical,United States
+MSFT,Technology,United States
+AAPL,Technology,United States

@@ -1,0 +1,13 @@
+mysql_host: 'broker-er.cdqol35mpq1t.us-east-2.rds.amazonaws.com'
+mysql_user: 'root'
+# Enter your password in field below
+mysql_password: 'cs411broker'
+mysql_db: 'Broker-er'
+
+
+
+# mysql_host: 'localhost'
+# mysql_user: 'root'
+# # Enter your password in field below
+# mysql_password: 'Apfhd6283!'
+# mysql_db: 'test'

@@ -1,0 +1,95 @@
+{% extends "base.html" %}
+
+{%block content%}
+
+
+
+
+
+
+<div class ="row">
+  <div class ="column">
+    <table class="center">
+      <h2 >{{username}}'s Watchlist</h2>
+
+      <form method="POST" action="">
+        <div class="watchlistcss">
+        </div>
+        <div class="form-group">
+              <div class="col-centered">
+                <input type="ticker" class="form-control" name="ticker" aria-describedby="usernameHelp">
+              </div>
+
+              <div class="col-centered" role="group" aria-label="Basic example">
+                <button type="submit" name= "button" value = 'SEARCH' class="btn btn-secondary">SEARCH</button>
+                <button type="submit" name = "button" value = 'INSERT' class="btn btn-secondary">INSERT</button>
+                <button type="submit" name = "button" value = 'DELETE' class="btn btn-secondary">DELETE</button>
+                <button type="submit" name = "button" value = 'UPDATE' class="btn btn-secondary">UPDATE</button>
+            </div>
+        </div>
+      </form>
+
+        <thead>
+            <tr >
+                <th >Comapny Ticker</th>
+            </tr>
+        </thead>
+
+        <tbody>
+          {% for company in companyData %}
+            {% if company['owned'] %}
+              <tr class='owned'>
+
+              {% else %}
+              <tr>
+
+              {% endif %}
+
+                  <td><a href="{{ url_for('stock', ticker=company['ticker']) }}">{{ company['ticker'] }}</a></td>
+                </tr>
+
+            {% endfor %}
+        </tbody>
+    </table>
+  </div>
+  <div class ="column">
+    <table  class="center">
+      <h2 class= "centered">Trending Now</h2>
+
+      <div > &nbsp</div>
+      <div > &nbsp</div>
+      <div > &nbsp</div>
+
+
+
+        <thead>
+            <tr >
+                <th>Comapny Ticker</th>
+                <th>Sector</th>
+                <th>Country</th>
+            </tr>
+        </thead>
+
+        <tbody>
+          {% for stock in famousStocks %}
+
+                <tr class= "display">
+                  <td><a href="{{ url_for('stock', ticker=stock['Ticker']) }}">{{ stock['Ticker'] }}</a></td>
+                  <td>{{ stock['sector'] }}</td>
+                  <td>{{ stock['country'] }}</td>
+                </tr>
+
+            {% endfor %}
+        </tbody>
+    </table>
+    </div>
+</div>
+
+
+<div>&nbsp</div>
+
+
+
+
+
+{% endblock %}

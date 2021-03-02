@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+{% block content%}
+<div class="row">
+    <div class="column">
+        <h2>Historical Price and Predction</h2>
+        <div class="row" id="graph" style="height:500px; width:800px;">
+            <!-- div for putting graph -->
+        </div>
+        <!-- Display plotly graphJSON from backend -->
+        <script type="text/javascript">
+            var graphs = {{ graphJSON|safe }};
+            Plotly.plot("graph",
+                graphs.data,
+                graphs.layout || {});
+        </script>
+    </div>
+
+    <div class="column">
+        <h2>Similar Stocks Clustering</h2>
+        <input type="hidden" id="cypher" value="{{ cypher }}">
+        <div id="viz">
+            <script type="text/javascript">
+
+                var viz;
+
+                function draw() {
+                    var config = {
+                        container_id: "viz",
+                        server_url: "bolt://localhost:7687",
+                        server_user: "",
+                        server_password: "",
+                        labels: {
+                            "Company": {
+                                "caption": "ticker",
+                            },
+
+                            "Cluster": {
+                                "caption": "clusterId",
+                            }
+
+                        },
+                        relationships: {
+
+                        },
+                        initial_cypher: document.querySelector('#cypher').value
+                    };
+
+                    viz = new NeoVis.default(config);
+                    viz.render();
+                }
+                draw();
+            </script>
+        </div>
+    </div>
+</div>
+
+<table id="data" class="table text-center table-sm table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Comapny Ticker</th>
+            <th>Date</th>
+            <th>Open</th>
+            <th>High</th>
+            <th>Low</th>
+            <th>Close</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        {% for row in stockData %}
+        <tr>
+            <td>{{ row['Ticker'] }}</td>
+            <td>{{ row['Date'] }}</td>
+            <td>{{ row['Open'] }}</td>
+            <td>{{ row['High'] }}</td>
+            <td>{{ row['Low']}}</td>
+            <td>{{ row['Close']}}</td>
+
+        </tr>
+
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}
